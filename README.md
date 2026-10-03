@@ -1,84 +1,149 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F1E,50:0D2B45,100:00E5FF&height=220&section=header&text=Soma%20Sundaram&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%E2%80%A2%20Networking%20%E2%80%A2%20Embedded%20%26%20Communication%20Systems&descAlignY=62&descSize=17" width="100%" />
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F1E,50:0D2B45,100:00E5FF&height=240&section=header&text=Soma%20Sundaram&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%E2%80%A2%20Networking%20%E2%80%A2%20Embedded%20%26%20Communication%20Systems&descAlignY=63&descSize=17" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=620&lines=Final-Year+Student+%7C+Open+to+Work;Building+with+Python+%26+Networking;Li-Fi+%7C+Raspberry+Pi+%7C+Embedded+Systems;Turning+hardware+ideas+into+working+prototypes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Final-Year+Student+%7C+Open+to+Work+%F0%9F%9A%80;Python+%2B+Networking+%2B+Hardware;Li-Fi+%7C+Raspberry+Pi+%7C+Embedded+Systems;Turning+ideas+into+working+prototypes" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&labelColor=0A0F1E" />
-  <img src="https://img.shields.io/badge/ROLE-FRESHER%20%2F%20ENTRY%20LEVEL-0D2B45?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/LEVEL-FRESHER-0D2B45?style=for-the-badge&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-IMMEDIATE-00B8D4?style=for-the-badge&labelColor=0A0F1E" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/soma-sundaram-b-9510aa2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00B8D4?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=somu-cyber&label=PROFILE%20VIEWS&color=00B8D4&style=flat-square&labelColor=0A0F1E" />
   <img src="https://img.shields.io/github/followers/somu-cyber?style=flat-square&color=00B8D4&labelColor=0A0F1E" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ `whoami`
 
 ```text
-> whoami
-Soma Sundaram, final-year student, ready to start my career
-
-> focus
-Python, Networking, Embedded & Communication Systems
-
-> status
-Looking for my first role, open to opportunities
+┌──────────────────────────────────────────────────────┐
+│  NAME      : Soma Sundaram                           │
+│  HANDLE    : @somu-cyber                             │
+│  STATUS    : Final-year student → seeking first role │
+│  FOCUS     : Python · Networking · Embedded · Comms  │
+│  APPROACH  : Build it, break it, document it         │
+└──────────────────────────────────────────────────────┘
 ```
 
-- 🎓 Final-year student actively looking for a job
-- 🐍 Learning and building with **Python**
-- 🌐 Studying **Computer Networking** fundamentals
-- 🔬 I like projects where **hardware meets software**
-- 📡 Interested in **communication systems** (Li-Fi, wireless) and VLSI
+I build projects where **hardware meets software**: light-based vehicle communication, Pi-powered anti-tamper systems, and automated waste sorting. I'm sharpening my **Python** and **networking** fundamentals and looking for a team where I can learn fast and ship real things.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D2B45?style=for-the-badge&logo=python&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Networking-0D2B45?style=for-the-badge&logo=cisco&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-0D2B45?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Linux-0D2B45?style=for-the-badge&logo=linux&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Git-0D2B45?style=for-the-badge&logo=git&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/GitHub-0D2B45?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,raspberrypi,git,github,vscode&theme=dark" />
 </p>
+
+<details>
+<summary><b>📚 Skills breakdown (click to expand)</b></summary>
+<br>
+
+| Domain | Focus areas |
+|:--|:--|
+| 🐍 **Programming** | Python (actively learning and building) |
+| 🌐 **Networking** | Network fundamentals, communication protocols |
+| 📡 **Communication Systems** | Li-Fi / Visible Light Communication, V2V concepts |
+| 🔌 **Embedded / IoT** | Raspberry Pi, sensors, hardware interfacing |
+| 🧰 **Tools** | Git, GitHub, Linux, VS Code |
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📡 Li-Fi V2V Communication</h3>
-      <p>Next-generation <b>vehicle-to-vehicle communication</b> powered by Li-Fi (light-based data transfer).</p>
-      <p><code>Li-Fi</code> <code>Communication</code> <code>Embedded</code></p>
-      <a href="https://github.com/somu-cyber/REPO-NAME">View Project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚖️ Jewellery Weight Tamper Detector</h3>
-      <p>A <b>Raspberry Pi based</b> machine that detects weight tampering for jewellery stores.</p>
-      <p><code>Raspberry Pi</code> <code>Python</code> <code>IoT</code></p>
-      <a href="https://github.com/somu-cyber/REPO-NAME">View Project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>♻️ Dry Metal Waste Segregation</h3>
-      <p>An automated system that <b>segregates dry metal waste</b>, built for cleaner recycling.</p>
-      <p><code>Automation</code> <code>Sensors</code> <code>Embedded</code></p>
-      <a href="https://github.com/somu-cyber/REPO-NAME">View Project →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Li-Fi Vehicle-to-Vehicle Communication
+Next-generation V2V communication using **Li-Fi** (data over light) to enable fast, interference-resistant messaging between vehicles.
+
+`Li-Fi` `VLC` `Communication` `Embedded`
+
+[**→ View Repository**](https://github.com/somu-cyber/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Jewellery Store Weight Tamper Detector
+A **Raspberry Pi based** machine that detects weight tampering in jewellery stores, protecting both the shop and customers.
+
+`Raspberry Pi` `Python` `Sensors` `IoT`
+
+[**→ View Repository**](https://github.com/somu-cyber/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ♻️ Dry Metal Waste Segregation System
+An automated system that identifies and **segregates dry metal waste** from other waste, supporting cleaner recycling.
+
+`Automation` `Sensors` `Embedded` `Sustainability`
+
+[**→ View Repository**](https://github.com/somu-cyber/REPO-NAME)
+
+</td>
+</tr>
 </table>
+
+### 🧩 Project architecture
+
+> These diagrams are starting points. Edit the boxes so they match how your projects actually work.
+
+<details>
+<summary><b>📡 Li-Fi V2V: system flow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Vehicle A<br/>Data Input] --> B[Encoder / Modulator]
+    B --> C[LED Transmitter<br/>Light Signal]
+    C -. Visible Light .-> D[Photodetector<br/>Receiver]
+    D --> E[Demodulator / Decoder]
+    E --> F[Vehicle B<br/>Output / Alert]
+```
+
+</details>
+
+<details>
+<summary><b>⚖️ Weight Tamper Detector: system flow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Load Cell<br/>Weight Sensor] --> B[Raspberry Pi]
+    B --> C{Weight matches<br/>expected value?}
+    C -- Yes --> D[✅ Normal Operation]
+    C -- No --> E[🚨 Tamper Alert]
+```
+
+</details>
+
+<details>
+<summary><b>♻️ Waste Segregation: system flow</b></summary>
+
+```mermaid
+flowchart LR
+    A[Waste Input] --> B[Sensor Detection]
+    B --> C{Metal<br/>detected?}
+    C -- Yes --> D[Metal Bin]
+    C -- No --> E[Other Waste Bin]
+```
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=somu-cyber&show_icons=true&hide_border=true&bg_color=0A0F1E&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
@@ -89,19 +154,40 @@ Looking for my first role, open to opportunities
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somu-cyber&background=0A0F1E&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=0D2B45&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somu-cyber&bg_color=0A0F1E&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
-## 🎯 Currently
-
-| | |
-|---|---|
-| 🌱 **Learning** | Python, Networking |
-| 🔨 **Building** | More hardware + software projects |
-| 💼 **Looking for** | Entry-level role in tech / communication / embedded domain |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somu-cyber&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🗺️ Learning Roadmap
+
+| Track | Progress |
+|:--|:--|
+| 🐍 Python | ![](https://geps.dev/progress/60?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🌐 Networking | ![](https://geps.dev/progress/50?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🔌 Embedded / IoT | ![](https://geps.dev/progress/55?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🧠 DSA & Problem Solving | ![](https://geps.dev/progress/35?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+
+> Adjust the numbers (the `60`, `50`, etc. in each link) to your honest level.
+
+**Up next:** deeper Python projects · network scripting and automation · documenting every project with demos
+
+---
+
+## 🎯 Career Goals
+
+- 💼 Seeking an **entry-level role** in **networking, embedded/IoT, communication systems or Python development**
+- 🤝 Looking for a team that values hands-on building and learning in public
+- 📍 Open to opportunities, ready to start immediately after graduation
+
+---
+
+## 📬 Let's Build Something Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/soma-sundaram-b-9510aa2b1">
@@ -112,4 +198,6 @@ Looking for my first role, open to opportunities
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0D2B45,100:0A0F1E&height=110&section=footer" width="100%" />
+<p align="center"><i>"First make it work, then make it better."</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0D2B45,100:0A0F1E&height=120&section=footer" width="100%" />
