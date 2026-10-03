@@ -168,16 +168,10 @@ flowchart LR
 
 | Track | Progress |
 |:--|:--|
-| 🐍 Python | ![](https://geps.dev/progress/60?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
-| 🌐 Networking | ![](https://geps.dev/progress/50?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
-| 🔌 Embedded / IoT | ![](https://geps.dev/progress/55?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
-| 🧠 DSA & Problem Solving | ![](https://geps.dev/progress/35?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
-
-> Adjust the numbers (the `60`, `50`, etc. in each link) to your honest level.
-
-**Up next:** deeper Python projects · network scripting and automation · documenting every project with demos
-
----
+| 🐍 Python | ![](https://geps.dev/progress/70?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🌐 Networking | ![](https://geps.dev/progress/75?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🔌 Embedded / IoT | ![](https://geps.dev/progress/65?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
+| 🧠 DSA & Problem Solving | ![](https://geps.dev/progress/75?dangerColor=00E5FF&warningColor=00E5FF&successColor=00E5FF) |
 
 ## 🎯 Career Goals
 
